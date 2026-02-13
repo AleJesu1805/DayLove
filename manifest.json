@@ -1,0 +1,21 @@
+{
+  "short_name": "Day",
+  "name": "Dayvelis",
+  "description": "Fotos animadas con gsap. Day",
+  "dir": "auto",
+  "lang": "es",
+  "background_color": "#790fb0",
+  "theme_color": "#1d20b0",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": ".",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "dayIcon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
